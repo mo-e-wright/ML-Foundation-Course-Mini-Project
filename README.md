@@ -2,7 +2,7 @@
 #### K-means Clustering of Amazon Climatological Data to Determine Representative Regions ####
 Author: Emily Wright - Graduate Trainee (emily.wright@metoffice.gov.uk)
 
-Supervisor: Theo Economou (theo.economou@exeter.ac.uk)
+Supervisor: Theo Economou (t.economou@exeter.ac.uk)
 
 Training scoped and funded as part of the Transatlantic Data Science Academy
 
